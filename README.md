@@ -1,1 +1,1 @@
-**A little DOM manipulation practice**
+**DOM manipulation practice off a Youtube tutorial**
